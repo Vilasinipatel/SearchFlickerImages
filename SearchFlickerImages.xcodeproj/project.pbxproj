@@ -105,6 +105,7 @@
 				5D2EACBD2733961E00069F49 /* ViewModel */,
 				5D2EAC952732C2CD00069F49 /* Utilities */,
 				5D2EAC902732C21F00069F49 /* Networking */,
+				5D2EAC932732C28200069F49 /* Model */,
 				5D2EAC2E2732A26900069F49 /* AppDelegate.swift */,
 				5D2EAC302732A26900069F49 /* SceneDelegate.swift */,
 				5D2EAC342732A26900069F49 /* Main.storyboard */,
@@ -127,7 +128,6 @@
 		5D2EAC902732C21F00069F49 /* Networking */ = {
 			isa = PBXGroup;
 			children = (
-				5D2EAC932732C28200069F49 /* Model */,
 				5D2EAC922732C27A00069F49 /* Services */,
 			);
 			path = Networking;
